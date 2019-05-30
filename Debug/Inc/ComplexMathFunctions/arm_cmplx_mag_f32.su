@@ -1,0 +1,2 @@
+arm_math.h:5745:30:arm_sqrt_f32	8	static
+arm_cmplx_mag_f32.c:84:6:arm_cmplx_mag_f32	40	static
